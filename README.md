@@ -9,7 +9,7 @@
 
 ## a) Archiválás
 
-A mappában lévő almappák közül zip-pel és átmásolja a megadott célra minden olyan mappát, ami neve szerint régebbi, mint 30 nap, majd törli a mappákat és tartalmukat a forrás mappában. (archive.sh)
+A mappában lévő almappák közül zip-el és átmásolja a megadott célra minden olyan mappát, ami neve szerint régebbi, mint 30 nap, majd törli a mappákat és tartalmukat a forrás mappában. (archive.sh)
 
 Ezt a feladatot egy bash script segítségével oldottam meg. A scriptben a megadott célmappa és a forrásmappa megadása után a script lekérdezi az aznapi időt, majd végig lépked a forrásmappa összes almappáján és megvizsgálja, hogy mappa-e.
 
