@@ -1,0 +1,45 @@
+.ks-segmented-standard3.ks-segmented {
+	border: 1px solid #007aff;
+	border-radius: 5px;
+	height: 30px;
+}
+
+.ks-segmented-standard3 .ks-segment {
+	color: #007aff;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.ks-segmented-standard3 .ks-segment {
+	border-left: 1px solid #007aff;
+}
+
+.ks-segmented-standard3 .ks-segment:first-child {
+	border-left: 1px solid #007aff;
+}
+
+.ks-segmented-standard3 .ks-segment.ks-on {
+	background-color: #007aff;
+	color: #fff;
+}
+/*HR skin*/
+
+.ks-segmented-segmented-hr.ks-segmented {;
+	height: 40px;
+}
+
+.ks-segmented-segmented-hr .ks-segment {
+	color: #ff7600;
+	font-size: 14px;
+	font-weight: bold;
+	border-radius: 5px;
+	background-color: #eceff1;
+	color: #000;
+	margin-right: 5px;
+}
+
+
+.ks-segmented-segmented-hr .ks-segment.ks-on {
+	background-color: #ff7600;
+	color: #fff;
+}

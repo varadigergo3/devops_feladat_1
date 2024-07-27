@@ -1,0 +1,731 @@
+/* upload button*/
+
+.ks-button-template1.ks-button {
+    background-color: #ff254d;
+    height: 50px;
+    padding: 1px;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.ks-button-template1 .ks-button-inner {
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.ks-button-template1 .ks-button-icon,
+.ks-button-template1 .ks-button-icon img {
+	height: 20px;
+	fill: #ff254d;
+}
+
+.ks-button-template1 .ks-button-divider {
+	width: 10px;
+}
+
+.ks-button-template1 .ks-button-label {
+	color: #ff254d;
+	font-size: 16px;
+}
+
+
+
+/* analogic main button */
+
+.ks-button-analogicmain.ks-button {
+	background-color: #007aff;
+	height: 40px;
+        border-radius: 5px;
+        width: 200px;
+}
+
+.ks-button-analogicmain .ks-button-label {
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* vidanet main button */
+
+.ks-button-vidanetmain.ks-button {
+	height: 200px;
+    width: 200px;
+}
+
+.ks-button-vidanetmain.ks-button.has-icon .ks-button-icon {
+    color: #fff;
+	font-size: 100px;
+    line-height: 2px;
+}
+
+.ks-button-vidanetmain.ks-button .ks-button-inner {
+    border-radius: 15px;
+}
+
+/* vidanet menu button */
+.ks-button-vidanetmenu.ks-button,
+.ks-button-vidanetmenu.ks-button {
+	height: 40px;
+    width: 40px;
+}
+
+.ks-button-vidanetmenu .ks-button-icon {
+    color: #fff;
+    height: 20px;
+	font-size: 20px;
+    line-height: 5px;
+}
+
+.ks-button-vidanetmenu .ks-button-inner {
+	border-radius: 5px;
+}
+
+.ks-button-vidanetmenudark.ks-button,
+.ks-button-vidanetmenudark.ks-button {
+	height: 40px;
+    width: 40px;
+}
+
+.ks-button-vidanetmenudark .ks-button-icon {
+    color: #747b85;
+    height: 20px;
+	font-size: 20px;
+    line-height: 4px;
+}
+
+.ks-button-vidanetmenudark .ks-button-inner {
+	border-radius: 5px;
+}
+
+
+/* text */
+
+.ks-button-riskmain.ks-button {
+	background-color: #e5f1ff;
+	height: 40px;
+        border-radius: 10px;
+        width: 400px;
+}
+
+.ks-button-riskmain .ks-button-label {
+	color: #007aff;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+
+/* mainmenu with label button */
+
+.ks-button-mainmenulab.ks-button,
+.ks-button-mainmenulab-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-mainmenulab .ks-button-icon {
+        color: #747b85;
+		font-size: 22px;
+        line-height: 2px;
+        padding: 6px;
+}
+
+.ks-button-mainmenulab .ks-button-label {
+	color: #000000;
+	font-size: 20px;
+	line-height: 5px;
+	margin-top : 6px;
+}
+
+
+/* mainmenu */
+
+.ks-button-mainmenu.ks-button,
+.ks-button-mainmenu-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-mainmenu .ks-button-icon {
+        color: #747b85;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+
+/* vidanetmainmenu on */
+/* vidanetpnlmainmenu on */
+
+.ks-button-vidanetpnlmainmenuon.ks-button,
+.ks-button-vidanetpnlmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-vidanetpnlmainmenuon .ks-button-icon {
+        color: #78297d;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+
+/* vidanetsubmainmenu on */
+
+.ks-button-vidanetsubmainmenuon.ks-button,
+.ks-button-vidanetsubmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-vidanetsubmainmenuon .ks-button-icon {
+        color: #ff7600;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+/* vidanetsubmainmenulab on */
+
+.ks-button-vidanetsubmainmenuonlab.ks-button,
+.ks-button-vidanetsubmainmenuonlab-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-vidanetsubmainmenuonlab .ks-button-icon {
+        color: #ff7600;
+		font-size: 22px;
+        line-height: 2px;
+        padding: 6px;
+}
+
+.ks-button-vidanetsubmainmenuonlab .ks-button-label {
+	color: #ff7600;
+	font-size: 20px;
+	line-height: 5px;
+	margin-top : 6px;
+}
+
+
+/* vidanetmainmenu off */
+
+.ks-button-vidanetmainmenuoff.ks-button,
+.ks-button-vidanetmainmenuoff-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-vidanetmainmenuoff .ks-button-icon {
+        color: #747b85;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+
+/* vidanetsubgridtable on */
+
+.ks-button-vidanetsubgridtable.ks-button,
+.ks-button-vidanetsubgridtable-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-vidanetsubgridtable .ks-button-icon {
+        color: #ff7600;
+		font-size: 20px;
+        line-height: 2px;
+        padding: 6px;
+        margin-left: 10px;
+       /* margin-left: 40px;*/
+}
+
+.ks-button-vidanetsubgridtable .ks-button-label {
+	font-size: 100%;
+}
+
+/* vidanetsubgridtable noicon */
+
+.ks-button-vidanetsubgridtablenoicon.ks-button,
+.ks-button-vidanetsubgridtablenoicon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-vidanetsubgridtablenoicon .ks-button-icon {
+        color: #fff;
+		font-size: 20px;
+        line-height: 2px;
+        padding: 6px;
+        margin-left: 10px;
+       /* margin-left: 40px;*/
+}
+
+.ks-button-vidanetsubgridtablenoicon .ks-button-label {
+	font-size: 100%;
+}
+
+/* vidanetsubgtheader on */
+
+.ks-button-vidanetsubgtheader.ks-button,
+.ks-button-vidanetsubgtheader-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-vidanetsubgtheader .ks-button-icon {
+        color: #ff7600;
+		font-size: 20px;
+        line-height: 2px;
+        padding: 6px;
+       /* margin-left: 40px;*/
+}
+
+.ks-button-vidanetsubgtheader .ks-button-label {
+	font-size: 100%;
+	margin-left: 5px;
+}
+
+.ks-button-vidastandard.ks-button,
+.ks-button-vidastandard.ks-button {
+	background-color: #ebecec;
+	height: 40px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.ks-button-vidastandard .ks-button-label {
+	color: #747b85;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+    justify-content: left!important;
+}
+
+.ks-button-vidastandard .ks-button-inner {
+	border-radius: 5px;
+}
+
+
+.ks-button-mozgasflag.ks-button,
+.ks-button-mozgasflag.ks-button {
+	background-color: #ff7600;
+	height: 40px;
+    border-radius: 10px;
+    width: 400px;
+}
+
+.ks-button-mozgasflag .ks-button-label {
+	color: #fff;
+	font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.ks-button-mozgasflag .ks-button-inner {
+	border-radius: 5px;
+}
+
+/* vidanets events */
+
+.ks-button-hasevent .ks-button-icon {
+    font-size: 20px;
+    color: #ff7600;
+}
+
+
+.ks-button-noevent .ks-button-icon {
+    font-size: 50px;
+    color: transparent;
+}
+
+
+.ks-button-addbutton .ks-button-icon {
+    font-size: 18px;
+    color: #ff7600;
+    margin-right: 26px;
+}
+
+.ks-button-cancelbutton .ks-button-icon {
+    font-size: 14px;
+    color: #688391;
+    margin-right: 30px;
+}
+
+
+.ks-button-mozgasaddrow .ks-button-icon {
+        color: #ff7600;
+		font-size: 25px;
+}
+
+.ks-button-flowEsetiChange .ks-button-icon {
+        color: transparent;
+		font-size: 40px;
+}
+
+/* mozgas popup szerkesztes with label button */
+
+.ks-button-szerklab.ks-button,
+.ks-button-szerklab-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-szerklab .ks-button-icon {
+        color: #747b85;
+		font-size: 22px;
+        line-height: 2px;
+        padding: 6px;
+}
+
+.ks-button-szerklab .ks-button-label {
+	color: #000000;
+	font-size: 20px;
+	line-height: 5px;
+	margin-top : 6px;
+	margin-left: 15px;
+}
+
+.ks-button-deletelab.ks-button,
+.ks-button-deletelab-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-deletelab .ks-button-icon {
+        color: #ff2323;
+		font-size: 22px;
+        line-height: 2px;
+        padding: 6px;
+}
+
+.ks-button-deletelab .ks-button-label {
+	color: #ff2323;
+	font-size: 20px;
+	line-height: 5px;
+	margin-top : 6px;
+	margin-left: 20px;
+}
+
+/* planning driver-plandr modul skinjei */
+
+.ks-button-plandrmainmenuon.ks-button,
+.ks-button-plandrmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-plandrmainmenuon .ks-button-icon {
+        color: #9a7e66;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+/* service cost-servcost modul skinjei */
+
+.ks-button-servcostmainmenuon.ks-button,
+.ks-button-servcostmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-servcostmainmenuon .ks-button-icon {
+        color: #388e3c;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+/* servcostgridtable on */
+
+.ks-button-servcostgridtable.ks-button,
+.ks-button-servcostgridtable-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-servcostgridtable .ks-button-icon {
+        color: #388e3c;
+		font-size: 20px;
+        line-height: 2px;
+        padding: 6px;
+        margin-left: 10px;
+       /* margin-left: 40px;*/
+}
+
+.ks-button-servcostgridtable .ks-button-label {
+	font-size: 100%;
+}
+
+/* servcostgtheader on */
+
+.ks-button-servcostgtheader.ks-button,
+.ks-button-servcostgtheader-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-servcostgtheader .ks-button-icon {
+        color: #388e3c;
+		font-size: 20px;
+        line-height: 2px;
+        padding: 6px;
+       /* margin-left: 40px;*/
+}
+
+.ks-button-servcostgtheader .ks-button-label {
+	font-size: 100%;
+	margin-left: 5px;
+}
+
+
+/* margin plan - margin modul skinjei */
+
+.ks-button-marginmainmenuon.ks-button,
+.ks-button-marginmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-marginmainmenuon .ks-button-icon {
+        color: #ff3d00;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+
+/* other cost plan - other cost modul skinjei */
+
+.ks-button-otcostmainmenuon.ks-button,
+.ks-button-otcostmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-otcostmainmenuon .ks-button-icon {
+        color: #00a0ff;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+
+/* other revenue plan - other revenue modul skinjei */
+
+.ks-button-otrevmainmenuon.ks-button,
+.ks-button-otrevmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-otrevmainmenuon .ks-button-icon {
+        color: #e52af1;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+
+
+/* Commission gift modul skinjei */
+
+
+.ks-button-comgiftmainmenuon.ks-button,
+.ks-button-comgiftmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-comgiftmainmenuon .ks-button-icon {
+        color: #dd2c00;
+		font-size: 22px;
+        line-height: 2px;
+}
+
+
+
+/* HR tervezo skinjei */
+
+
+.ks-button-hrmenu1.ks-button {
+    background-color: #ff7600;
+    height: 150px;
+    border-radius: 3px;
+    width: 150px;
+}
+
+.ks-button-hrmenu1 .ks-button-icon {
+    color: #fff;
+    font-size: 70px;
+}
+
+.ks-button-hrmenu2.ks-button {
+    background-color: #747b85
+    height: 150px;
+    border-radius: 3px;
+    width: 150px;
+}
+
+.ks-button-hrmenu2 .ks-button-icon {
+    color: #fff;
+    font-size: 70px;
+}
+
+
+.ks-button-settingsbutton.ks-button {
+    background-color:#747b85;
+    height: 150px;
+    border-radius: 3px;
+    width: 150px;
+}
+
+.ks-button-settingsbutton .ks-button-icon {
+    color: #fff;
+    font-size: 70px;
+}
+
+.ks-button-backbuttonhr.ks-button {
+    height: 40px;
+    width: 40px;
+}
+
+.ks-button-backbuttonhr .ks-button-icon {
+    font-size: 30px;
+    color:#ff7600;
+}
+
+/* HR tervezo jobb felső accaount skinje */
+.ks-button-userpanelhr.ks-button {
+    height: 30px;
+    padding: 1px;
+    border-radius: 6px;
+    background-color: #f6f7f9;
+}
+
+.ks-button-userpanelhr .ks-button-inner {
+    background-color: #f6f7f9;
+    border-radius: 6px;
+    padding: 0 25px 0 10px;
+}
+
+.ks-button-userpanelhr .ks-button-icon,
+.ks-button-userpanelhr .ks-button-icon img {
+    float: left;
+    font-size: 21px;
+    margin-top: 4px;
+    margin-right: 8px;
+    color: #78909c;
+}
+
+.ks-button-userpanelhr .ks-button-divider {
+    width: 10px;
+}
+
+.ks-button-userpanelhr.ks-button {
+    height: 30px;
+    padding: 1px;
+    border-radius: 6px;
+    background-color: #f6f7f9;
+}
+
+.ks-button-userpanelhr .ks-button-inner {
+    background-color: #f6f7f9;
+    border-radius: 6px;
+    padding: 0 25px 0 10px;
+}
+
+.ks-button-userpanelhr .ks-button-icon,
+.ks-button-userpanelhr .ks-button-icon img {
+    float: left;
+    font-size: 21px;
+    margin-top: 4px;
+    margin-right: 8px;
+    color: #78909c;
+}
+
+.ks-button-userpanelhr .ks-button-divider {
+    width: 10px;
+}
+
+/* */
+/* HR tervezo Business Plan- Business Plan Simulation skinje */
+.ks-button-businesspanelhr.ks-button {
+    height: 30px;
+    padding: 1px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+
+.ks-button-businesspanelhr .ks-button-inner {
+    background-color: #ffffff;
+    border-radius: 6px;
+    padding: 0 25px 0 10px;
+}
+
+.ks-button-businesspanelhr .ks-button-icon,
+.ks-button-businesspanelhr .ks-button-icon img {
+    float: left;
+    font-size: 21px;
+    margin-top: 4px;
+    margin-right: 1px;
+    color: #78909c;
+}
+
+.ks-button-businesspanelhr .ks-button-divider {
+    width: 10px;
+}
+.ks-button-businesspanelhr .ks-button-label {
+	color: #78909c;
+	font-weight: bold;
+}
+
+
+/* telekom jump icon */
+
+
+.ks-button-sidemenuBtn.ks-button {
+    background-color: #d8d9d9;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 1px;
+    padding-left: 45px;
+    white-space: nowrap;
+    width: 170px;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+
+.ks-button-sidemenuBtn .ks-button-label {
+    color: #000;
+    cursor: pointer;
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    padding-left: 5px;
+}
+
+.ks-button-sidemenuBtn .ks-button-content {
+    padding-left: 18px;
+}
+
+
+/* */
+/* channel cost mainmenuon */
+
+.ks-button-channelcostmainmenuon.ks-button,
+.ks-button-channelcostmainmenuon-on.ks-button {
+	background-color: transparent;
+        height: 30px;
+}
+
+.ks-button-channelcostmainmenuon .ks-button-icon {
+        color: #83c600;
+		font-size: 22px;
+        line-height: 2px;
+}
+/* */

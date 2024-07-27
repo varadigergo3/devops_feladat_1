@@ -1,0 +1,61 @@
+.ks-legend-combochart{
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: 600;
+    margin: 10px auto;
+}
+
+.ks-legend-combochart .off .ks-legend-label {
+    background-color: lightgray!important;
+}
+
+.ks-legend-combochart .ks-legend-inner {
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.ks-legend-combochart .ks-legend-item {
+    width: 50px;
+    height: 20px;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.ks-legend-attila-2{
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    font-weight: 600;
+    margin: 10px auto;
+}
+
+.ks-legend-attila-2 .ks-legend-inner {
+    align-items: flex-start;
+}
+
+.ks-legend-attila-2 .ks-legend-item {
+    width: 50px;
+    height: 20px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.ks-legend-attila-2 .off .ks-legend-label {
+    background-color: lightgrey!important;
+}
+
+
+
+.ks-legend-displaynone{
+    display: none;
+}
+

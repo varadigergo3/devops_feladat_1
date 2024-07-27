@@ -1,0 +1,167 @@
+/* template1*/
+.ks-text-template1 .ks-text-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.ks-text-template1 .ks-text-title-input {
+    font-weight: bold;
+    font-size: 16px;
+    border-width: 0px;
+    width: 60px;
+    color: #E20074;
+    text-align: right;
+    background: transparent;
+    outline:none;
+}
+
+.ks-text-template1 .ks-text-title-input::-moz-selection {
+    background-color: white;
+    color: #E20074;
+}
+
+.ks-text-template1 .ks-text-title-input::selection {
+    background-color: white;
+    color: #E20074;
+}
+
+/* template2*/
+.ks-text-template2.ks-text .ks-text-inner {
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.ks-text-template2 .ks-text-title {
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.ks-text-template2 .ks-text-separator {
+    border-bottom: 1px dotted red;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.ks-text-template2 .ks-text-body {
+    color: #000;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+/* template3*/
+.ks-text-template3.ks-text {
+    background-color: #ffc3ce;
+    height: 50px;
+    padding: 10px 40px;
+    border-radius: 25px;
+    display: table!important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ks-text-template3 .ks-text-title {
+    color: #ff274e;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+/* template4 */
+
+.ks-text-template4.ks-text {
+    background-color: #ededf2;
+    padding: 0 15px;
+}
+
+.ks-text-template4 .ks-text-title {
+    color: #838388;
+    font-size: 20px;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.ks-text-template4 .ks-text-separator {
+    border-bottom: 1px solid #838388;
+    display: block;
+}
+
+.ks-text-template4 .ks-text-body {
+    color: #000;
+    font-size: 16px;
+    padding: 15px 0;
+}
+
+/* template5*/
+.ks-text-template5 .ks-text-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 11px;
+    text-align: right;
+}
+
+/* template6*/
+.ks-text-template6 .ks-text-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 36px;
+}
+
+/* template7*/
+.ks-text-template7 .ks-text-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 11px;
+    color: #747b85;
+}
+
+/* template8*/
+.ks-text-template8 .ks-text-title {
+    font-size: 11px;
+    text-align: right;
+    color: #747b85;
+}
+
+/* template9*/
+.ks-text-template9 .ks-text-title {
+    font-size: 12px;
+    color: #747b85;
+}
+
+/* risk gridtable text*/
+.ks-text-riskgridtable .ks-text-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.ks-text-riskgridtable .ks-text-title-input {
+    font-weight: bold;
+    font-size: 16px;
+    border-width: 0px;
+    width: 100%;
+    color: #E20074
+}
+
+.ks-text-riskgridtable .ks-text-title-input::-moz-selection {
+    background-color: white;
+    color: #E20074;
+}
+
+.ks-text-riskgridtable .ks-text-title-input::selection {
+    background-color: white;
+    color: #E20074
+}
+
+/* risk gridtable text*/
+.ks-text-bold .ks-text-title {
+    font-weight: bold;
+}
+
+
+
+.ks-text-infotext .ks-text-title {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+

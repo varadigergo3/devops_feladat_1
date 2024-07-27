@@ -1,0 +1,82 @@
+/* template 1*/
+
+.ks-textarea-deepblue_textarea .ks-textarea-title {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 16px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+
+.ks-textarea-deepblue_textarea .ks-textarea-field {
+    border: 1px solid #b1b3b3;
+    border-radius: 7px;
+    height: 170px;
+    padding: 12px;
+}
+
+.ks-textarea-deepblue_textarea .ks-textarea-input {
+    background-color: #fff;
+    color: #000;
+    display: block;
+    font-size: 16px;
+    padding: 0 12px;
+    width: 100%;
+    -webkit-appearance: none;
+}
+
+.ks-textarea-deepblue_textarea .ks-textarea-input::-webkit-input-placeholder {
+    color: #838388;
+}
+.ks-textarea-deepblue_textarea .ks-textarea-input::-moz-placeholder {
+    color: #838388;
+}
+.ks-textarea-deepblue_textarea .ks-textarea-input:-ms-input-placeholder {
+    color: #838388;
+}
+.ks-textarea-deepblue_textarea .ks-textarea-input:-moz-placeholder {
+    color: #838388;
+}
+
+/* template 1*/
+
+.ks-textarea-textarea .ks-textarea-title {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 16px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+
+.ks-textarea-textarea .ks-textarea-field {
+
+}
+
+.ks-textarea-textarea .ks-textarea-input {
+    border: 1px solid #b1b3b3;
+    border-radius: 7px;
+    height: 170px;
+    padding: 12px;
+    background-color: #fff;
+    color: #000;
+    display: block;
+    font-size: 16px;
+/*    padding: 0 12px;*/
+    width: 100%;
+    -webkit-appearance: none;
+}
+
+.ks-textarea-textarea .ks-textarea-input::-webkit-input-placeholder {
+    color: #838388;
+}
+.ks-textarea-textarea .ks-textarea-input::-moz-placeholder {
+    color: #838388;
+}
+.ks-textarea-textarea .ks-textarea-input:-ms-input-placeholder {
+    color: #838388;
+}
+.ks-textarea-textarea .ks-textarea-input:-moz-placeholder {
+    color: #838388;
+}

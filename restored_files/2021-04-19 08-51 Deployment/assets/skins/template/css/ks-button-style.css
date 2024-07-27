@@ -1,0 +1,329 @@
+
+/* Skin: TELEKOM GRID HEADER */
+
+.ks-button-grid-header.ks-button {
+    color: #e20074;
+    font-family: 'tele-groteskultregular';
+    font-size: 10px;
+    text-decoration: none;
+}
+
+/* image button */
+
+.ks-button-template2.ks-button {
+	background-color: #006cf8;
+	height: 50px;
+	width: 50px;
+}
+
+.ks-button-template2 .ks-button-icon {
+	height: 30px;
+}
+
+.ks-button-template1.ks-button {
+    background-color: #E20074;
+    height: 150px;
+    border-radius: 3px;
+    width: 150px;
+}
+
+.ks-button-template1 .ks-button-icon {
+    color: #fff;
+	font-size: 70px;
+}
+
+.ks-button-settings.ks-button {
+    background-color: #fff;
+    height: 150px;
+    border-radius: 3px;
+    width: 150px;
+}
+
+.ks-button-settings .ks-button-icon {
+    color: #939290;
+	font-size: 70px;
+}
+
+/* telecom main button */
+
+.ks-button-telecommain.ks-button {
+    background-color: #E20074;
+    height: 30px;
+        border-radius: 5px;
+        width: 200px;
+}
+
+.ks-button-telecommain .ks-button-label {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ks-button-simtype.ks-button {
+    background-color: #E20074;
+    height: 40px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.ks-button-simtype .ks-button-label {
+    color: #fff;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.ks-button-simtype .ks-button-icon {
+    color: #fff;
+    font-size: 16px;
+    margin-right: 20px;
+}
+
+
+.ks-button-backbutton.ks-button {
+	height: 40px;
+	width: 40px;
+}
+
+.ks-button-backbutton .ks-button-icon {
+	font-size: 30px;
+	color:#E20074;
+}
+
+/* popup ok button */
+
+.ks-button-magentapopup.ks-button {
+    background-color: #E20074;
+    height: 40px;
+    border-radius: 5px;
+    width: 120px;
+}
+
+.ks-button-magentapopup .ks-button-label {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ks-button-magentapopup .ks-button-icon {
+	height: 30px;
+	color: #fff;
+}
+
+.ks-button-telecompopup.ks-button {
+    background-color: #E20074;
+    height: 40px;
+    border-radius: 5px;
+    width: 120px;
+}
+
+.ks-button-telecompopup .ks-button-label {
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ks-button-telecompopup .ks-button-icon {
+	height: 30px;
+	color: #fff;
+}
+
+/* telecom cancel button */
+
+
+.ks-button-magentacancel.ks-button {
+    height: 40px;
+    border-radius: 5px;
+    width: 120px;
+}
+
+.ks-button-magentacancel .ks-button-label {
+    color: #E20074;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ks-button-telecomcancel.ks-button {
+    height: 40px;
+    border-radius: 5px;
+    width: 120px;
+}
+
+.ks-button-telecomcancel .ks-button-label {
+    color: #E20074;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* telekom has event icon button */
+
+.ks-button-event .ks-button-content {
+	width: 30px;
+	height: 30px;
+}
+
+.ks-button-event .ks-button-icon {
+	font-size: 20px;
+	color: #939290;
+}
+
+.ks-button-hasevent .ks-button-icon {
+	font-size: 20px;
+	color: #E20074;
+}
+
+/* telekom arrow icon */
+
+.ks-button-arrowicon .ks-button-icon {
+	font-size: 14px;
+	color: #939290;
+}
+
+/* telekom jump icon */
+
+.ks-button-jumpicon .ks-button-icon {
+	font-size: 20px;
+	color: #E20074;
+	margin-right: 20px;
+}
+
+.ks-button-sidemenuBtn.ks-button {
+    background-color: #d8d9d9;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    margin-bottom: 1px;
+    padding-left: 45px;
+    white-space: nowrap;
+    width: 170px;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+
+.ks-button-sidemenuBtn .ks-button-label {
+    color: #000;
+    cursor: pointer;
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    padding-left: 5px;
+}
+
+.ks-button-sidemenuBtn .ks-button-content {
+    padding-left: 18px;
+}
+
+/* mainmenu button */
+
+.ks-button-appmainmenu.ks-button {
+	height: 150px;
+	width: 150px;
+}
+
+.ks-button-appmainmenu.ks-button .ks-button-inner {
+	border-radius: 25px;
+}
+
+
+.ks-button-appmainmenu .ks-button-icon {
+    color: #fff;
+	font-size: 70px;
+	display: flex;
+}
+
+.ks-button-appmainmenu.ks-button.has-icon .ks-button-icon{
+	display: flex;
+}
+
+
+/* telekom breakdown icon */
+
+.ks-button-breakdown .ks-button-icon {
+    font-size: 18px;
+    color: #939290;
+}
+
+/* telekom breakdown on icon */
+
+.ks-button-breakdownon .ks-button-icon {
+    font-size: 18px;
+    color: #E20074;
+}
+
+
+/* deepblue_userpanelmain */
+
+.ks-button-userpanelmain.ks-button {
+    height: 30px;
+    padding: 1px;
+    border-radius: 6px;
+    background-color: #f6f7f9;
+}
+
+.ks-button-userpanelmain .ks-button-inner {
+    background-color: #f6f7f9;
+    border-radius: 6px;
+    padding: 0 25px 0 10px;
+}
+
+.ks-button-userpanelmain .ks-button-icon,
+.ks-button-userpanelmain .ks-button-icon img {
+    float: left;
+    font-size: 21px;
+    margin-top: 4px;
+    margin-right: 8px;
+    color: #585959;
+}
+
+.ks-button-userpanelmain .ks-button-divider {
+    width: 10px;
+}
+
+
+.ks-button-deletebutton .ks-button-icon {
+	font-size: 20px;
+	color: #E20074;
+}
+
+
+.ks-button-chartbutton.ks-button {
+    height: 70px;
+}
+
+
+
+.ks-button-commenttitle .ks-button-icon {
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+
+/* telekom filter icon */
+
+.ks-button-filtericon .ks-button-icon {
+    font-size: 30px;
+    color: #E20074;
+}
+
+.ks-button-magentasmalladbutton .ks-button-icon {
+        color: #E20074;
+        font-size: 18px;
+        line-height: 2px;
+        padding: 6px;
+}
+
+.ks-button-magentasmalladbutton_od .ks-button-icon {
+        color: #E20074;
+        font-size: 22px;
+        line-height: 2px;
+        padding: 6px;
+}

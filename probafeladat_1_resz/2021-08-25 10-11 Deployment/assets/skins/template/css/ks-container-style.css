@@ -1,0 +1,53 @@
+.ks-container-withborder.ks-container {
+    border-radius: 10px;
+    border: 1px solid #b1b3b3;
+}
+
+.ks-container-scrollable.ks-container {
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+.ks-container-standardcont,
+.ks-container-standardcont.ks-container {
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15), 0px 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.ks-container-standardcont .ks-container-background {
+    padding: 5px;
+}
+.anchor-bottom:before {
+    border-bottom: 15px solid #f7f8f8;
+}
+
+.ks-container-mozgaspop,
+.ks-container-mozgaspop.ks-container {
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15), 0px 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.ks-container-mozgaspop .ks-container-background {
+    padding: 0px;
+}
+
+
+.ks-container-sidemenu.ks-container {
+    background-color: transparent;
+    box-shadow: unset;
+}
+
+.ks-container-sidemenu .ks-container-background {
+    padding: 0px;
+}
+
+.ks-container-sidemenu .ks-container-content {
+    padding: 0px;
+}
+
+
+/* Container a HR tervezőhöz */
+
+
+.ks-container-hrtervezo.ks-container {
+    border-radius: 25px;
+    border: 1px solid #ffffff;
+}

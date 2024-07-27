@@ -1,0 +1,17 @@
+.ks-container-withborder.ks-container {
+    border-radius: 10px;
+    border: 1px solid #b1b3b3;
+}
+
+.ks-container-sidemenu.ks-container {
+    background-color: transparent;
+    box-shadow: unset;
+}
+
+.ks-container-sidemenu .ks-container-background {
+    padding: 0px;
+}
+
+.ks-container-sidemenu .ks-container-content {
+    padding: 0px;
+}

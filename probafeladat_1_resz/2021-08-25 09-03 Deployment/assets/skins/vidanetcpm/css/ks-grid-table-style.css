@@ -1,0 +1,164 @@
+
+.ks-grid-table-standard .ks-grid-table-row {
+    border-bottom: 1px solid #e6e5e0;
+    height: 60px;
+}
+
+.ks-grid-table-standard .ks-grid-table-cell {
+    padding: 5px;
+}
+
+.ks-grid-table-standard .ks-grid-table-cell {
+    border-right: 3px solid #f4f2ed;
+}
+
+.ks-grid-table-standard .ks-grid-table-head{
+	display:none;
+}
+
+.ks-grid-table-standard .ks-grid-table-head .ks-grid-table-cell {
+	border:none;
+}
+
+/* risk stat */
+
+.ks-grid-table-riskstat .ks-grid-table-row {
+    border-bottom: 0px;
+    height: 60px;
+}
+
+.ks-grid-table-riskstat .ks-grid-table-cell {
+    padding: 5px;
+}
+
+.ks-grid-table-riskstat .ks-grid-table-cell {
+    border-right: 0px;
+}
+
+.ks-grid-table-riskstat .ks-grid-table-head{
+	display:none;
+
+}
+.ks-grid-table-riskstat .ks-grid-table-head .ks-grid-table-cell {
+	border:none;
+}
+
+/* vidanet */
+
+.ks-grid-table-vidanet .ks-grid-table-row {
+    border-bottom: 2px solid #EBECEC;
+    height: 60px;
+}
+
+.ks-grid-table-vidanet .ks-grid-table-cell {
+    padding: 5px;
+}
+
+.ks-grid-table-vidanet .ks-grid-table-cell {
+    border-right: 3px solid #EBECEC;
+}
+
+/* risk finance */
+
+.ks-grid-table-simulation .ks-grid-table-row {
+    border-bottom: 1px solid #e6e5e0;
+    height: 60px;
+}
+
+.ks-grid-table-simulation .ks-grid-table-cell {
+    padding: 5px;
+}
+
+.ks-grid-table-simulation .ks-grid-table-cell {
+    border-right: 3px solid #f4f2ed;
+}
+
+
+/* vidanet */
+
+.ks-grid-table-vidanetNohead .ks-grid-table-row {
+    border-bottom: 2px solid #EBECEC;
+    height: 60px;
+}
+
+.ks-grid-table-vidanetNohead .ks-grid-table-cell {
+    padding: 5px;
+    border-right: 3px solid #EBECEC;
+}
+
+.ks-grid-table-vidanetNohead .ks-grid-table-head{
+    display:block;
+}
+
+.ks-grid-table-vidanetNohead .ks-grid-table-head .ks-grid-table-row {
+    border-bottom: 2px solid #EBECEC;
+    height: 1px
+}
+
+/* mozgas 3 gt concat */
+
+.ks-grid-table-mozgasNohead .ks-grid-table-row {
+    border-bottom: 2px solid #EBECEC;
+    height: 60px;
+}
+
+.ks-grid-table-mozgasNohead .ks-grid-table-cell {
+    padding: 5px;
+    border-right: 3px solid #EBECEC;
+}
+
+.ks-grid-table-mozgasNohead .ks-grid-table-head{
+    display:none;
+}
+
+
+/* mozgaspopup gridtable skin */
+
+.ks-grid-table-mozgasgt .ks-grid-table-row {
+    border-bottom: 2px solid #EBECEC;
+    height: 50px;
+}
+
+.ks-grid-table-mozgasgt .ks-grid-table-cell {
+    padding: 5px;
+}
+
+/* vidanet */
+
+.ks-grid-table-zaroheader .ks-grid-table-row {
+    border-bottom: 2px solid #EBECEC;
+    height: 60px;
+}
+
+.ks-grid-table-zaroheader .ks-grid-table-cell {
+    padding: 5px;
+}
+
+.ks-grid-table-zaroheader .ks-grid-table-cell {
+    border-right: 3px solid #EBECEC;
+}
+
+.ks-grid-table-zaroheader .ks-grid-table-head .ks-grid-table-row {
+    height: 90px
+}
+
+
+/* hr simulation */
+
+.ks-grid-table-hrsimulation .ks-grid-table-row {
+    border-bottom: 1px solid #c3ced5;
+    height: 60px;
+}
+
+.ks-grid-table-hrsimulation .ks-grid-table-cell {
+    padding: 5px;
+}
+
+.ks-grid-table-hrsimulation .ks-grid-table-cell {
+    border-right: 2px solid #c3ced5;
+}
+
+.ks-grid-table-hrsimulation .ks-grid-table-content {
+	max-height: 500px;
+	overflow-y: scroll;
+}

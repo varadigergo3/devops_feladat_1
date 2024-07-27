@@ -1,0 +1,378 @@
+﻿/* template 1*/
+
+.ks-textbox-template1 .ks-textbox-title {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 16px;
+	margin-bottom: 5px;
+	padding-left: 10px;
+}
+
+.ks-textbox-template1 .ks-textbox-field {
+	border: 1px solid #7f7f7f;
+	border-radius: 5px;
+	height: 50px;
+}
+
+.ks-textbox-template1 .ks-textbox-input {
+	font-size: 16px;
+	padding: 0 10px;
+}
+
+.ks-textbox-template1 .ks-textbox-input::-webkit-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-template1 .ks-textbox-input::-moz-placeholder {
+	color: #838388;
+}
+.ks-textbox-template1 .ks-textbox-input:-ms-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-template1 .ks-textbox-input:-moz-placeholder {
+	color: #838388;
+}
+
+/* template 2 */
+
+.ks-textbox-template2 .ks-textbox-title {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 16px;
+	margin-bottom: 5px;
+	padding-left: 10px;
+}
+
+.ks-textbox-template2 .ks-textbox-title-secondary {/* validation-höz */
+	color: #ff3d61;
+}
+
+.ks-textbox-template2 .ks-textbox-field {
+	border: 1px solid #7f7f7f;
+	border-radius: 5px;
+	height: 50px;
+        border-color: #ff3d61; /* validation-höz */
+}
+
+.ks-textbox-template2 .ks-textbox-input {
+	font-size: 16px;
+	padding: 0 10px;
+}
+
+.ks-textbox-template2 .ks-textbox-input::-webkit-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-template2 .ks-textbox-input::-moz-placeholder {
+	color: #838388;
+}
+.ks-textbox-template2 .ks-textbox-input:-ms-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-template2 .ks-textbox-input:-moz-placeholder {
+	color: #838388;
+}
+
+/* template 3 */
+
+.ks-textbox-template3 .ks-textbox-field {
+	border: 1px solid #006cf8;
+	border-radius: 25px;
+	height: 50px;
+	padding: 1px;
+}
+
+.ks-textbox-template3 .ks-textbox-field-inner {
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ebeaf2+0,ffffff+100 */
+	background: #eeedf3; /* Old browsers */
+	background: -moz-linear-gradient(top, #eeedf3 0%, #ffffff 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #eeedf3 0%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #eeedf3 0%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeedf3', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+
+.ks-textbox-template3 .ks-textbox-icon {
+	margin-left: 15px;
+}
+
+.ks-textbox-template3 .ks-textbox-icon img {
+	height: 15px;
+}
+
+.ks-textbox-template3 .ks-textbox-divider {
+	width: 10px;
+}
+
+.ks-textbox-template3 .ks-textbox-input {
+	font-size: 16px;
+}
+
+.ks-textbox-template3 .ks-textbox-input::-webkit-input-placeholder {
+	color: #d4d4d8;
+}
+.ks-textbox-template3 .ks-textbox-input::-moz-placeholder {
+	color: #d4d4d8;
+}
+.ks-textbox-template3 .ks-textbox-input:-ms-input-placeholder {
+	color: #d4d4d8;
+}
+.ks-textbox-template3 .ks-textbox-input:-moz-placeholder {
+	color: #d4d4d8;
+}
+
+/* template 4 */
+
+.ks-textbox-template4.ks-textbox {
+	background-color: #ededf2;
+	border-radius: 20px;
+	padding: 15px;
+}
+
+.ks-textbox-template4 .ks-textbox-title {
+	color: #838388;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.ks-textbox-template4 .ks-textbox-field {
+	background-color: #fff;
+	border-radius: 10px;
+	height: 40px;
+}
+
+.ks-textbox-template4 .ks-textbox-input {
+	font-size: 16px;
+	padding: 0 15px;
+}
+
+
+/* telecom skin*/
+
+.ks-textbox-telecom .ks-textbox-title {
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 14px;
+	margin-bottom: 5px;
+	color:#E20074;
+}
+
+.ks-textbox-telecom .ks-textbox-field {
+	background-color: #f0f1f1;
+	border: 1px solid #b1b3b3;
+	border-radius: 7px;
+	color: #000;
+	display: block;
+	font-size: 16px;
+	height: 40px;
+	width: 240px;
+}
+
+.ks-textbox-telecom .ks-textbox-input {
+	font-size: 16px;
+	padding: 0 10px;
+}
+
+.ks-textbox-telecom .ks-textbox-field::selection {
+	border: 1px solid #747b85;
+	border-radius: 5px;
+	color:#E20074;
+}
+
+
+
+
+.ks-textbox-telecom .ks-textbox-input::-webkit-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-telecom .ks-textbox-input::-moz-placeholder {
+	color: #838388;
+}
+.ks-textbox-telecom .ks-textbox-input:-ms-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-telecom .ks-textbox-input:-moz-placeholder {
+	color: #838388;
+}
+
+
+/* simulation skin*/
+
+.ks-textbox-simulationtextbox .ks-textbox-title {
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 14px;
+	margin-bottom: 5px;
+	color:#E20074;
+}
+
+.ks-textbox-simulationtextbox .ks-textbox-field {
+	background-color: #ffffff;
+	border: 1px solid #b1b3b3;
+	border-radius: 3px;
+	color: #000;
+	display: block;
+	font-size: 16px;
+	height: 35px;
+	width: 240px;
+}
+
+.ks-textbox-simulationtextbox .ks-textbox-input {
+	font-size: 20px;
+	padding: 0 10px;
+	font-style: bold;
+}
+
+.ks-textbox-simulationtextbox .ks-textbox-field::selection {
+	border: 1px solid #747b85;
+	border-radius: 5px;
+	color:#E20074;
+}
+
+
+.ks-textbox-simulationtextbox .ks-textbox-input::-webkit-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-simulationtextbox .ks-textbox-input::-moz-placeholder {
+	color: #838388;
+}
+.ks-textbox-simulationtextbox .ks-textbox-input:-ms-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-simulationtextbox .ks-textbox-input:-moz-placeholder {
+	color: #838388;
+}
+
+/* simulationsmall skin*/
+
+.ks-textbox-simulationsmall .ks-textbox-title {
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 14px;
+	margin-bottom: 5px;
+	color:#E20074;
+}
+
+.ks-textbox-simulationsmall .ks-textbox-field {
+	background-color: #ffffff;
+	border: 1px solid #b1b3b3;
+	border-radius: 3px;
+	color: #000;
+	display: block;
+	font-size: 16px;
+	height: 35px;
+	width: 140px;
+}
+
+.ks-textbox-simulationsmall .ks-textbox-input {
+	font-size: 20px;
+	padding: 0 10px;
+	font-style: bold;
+}
+
+.ks-textbox-simulationsmall .ks-textbox-field::selection {
+	border: 1px solid #747b85;
+	border-radius: 5px;
+	color:#E20074;
+}
+
+
+.ks-textbox-simulationsmall .ks-textbox-input::-webkit-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-simulationsmall .ks-textbox-input::-moz-placeholder {
+	color: #838388;
+}
+.ks-textbox-simulsimulationsmallation .ks-textbox-input:-ms-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-simulationsmall .ks-textbox-input:-moz-placeholder {
+	color: #838388;
+}
+
+
+/* gridtableinput skin*/
+
+
+.ks-textbox-gridtableinput .ks-textbox-field {
+	background-color: transparent;
+	border: 0px solid transparent;
+	color:#747b85;
+	display: block;
+	font-size: 16px;
+	height: 25px;
+	width: 250px;
+}
+
+.ks-textbox-gridtableinput .ks-textbox-input {
+	font-size: 16px;
+	padding: 0 10px;
+	border-width: 0px;
+    background: transparent;
+    outline:none;
+}
+
+.ks-textbox-gridtableinput .ks-textbox-field::selection {
+	border: 1px solid #747b85;
+	border-radius: 5px;
+	color:#E20074;
+}
+
+
+.ks-textbox-gridtableinput .ks-textbox-input::-webkit-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-gridtableinput .ks-textbox-input::-moz-placeholder {
+	color: #838388;
+}
+.ks-textbox-gridtableinput .ks-textbox-input:-ms-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-gridtableinput .ks-textbox-input:-moz-placeholder {
+	color: #838388;
+}
+
+/* gridtableinputlong skin*/
+
+
+.ks-textbox-gridtableinputlong .ks-textbox-field {
+	background-color: transparent;
+	border: 0px solid transparent;
+	color:#747b85;
+	display: block;
+	font-size: 16px;
+	height: 25px;
+	width: 100%;
+}
+
+.ks-textbox-gridtableinputlong .ks-textbox-input {
+	font-size: 16px;
+	padding: 0 10px;
+	border-width: 0px;
+    background: transparent;
+    outline:none;
+}
+
+.ks-textbox-gridtableinputlong .ks-textbox-field::selection {
+	border: 1px solid #747b85;
+	border-radius: 5px;
+	color:#E20074;
+}
+
+.ks-textbox-gridtableinputlong .ks-textbox-field-inner.readonly {
+    background-color: transparent;
+	color: #747b85
+}
+.ks-textbox-gridtableinputlong .ks-textbox-input.readonly {
+	color: #747b85
+}
+
+.ks-textbox-gridtableinputlong .ks-textbox-input::-webkit-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-gridtableinputlong .ks-textbox-input::-moz-placeholder {
+	color: #838388;
+}
+.ks-textbox-gridtableinputlong .ks-textbox-input:-ms-input-placeholder {
+	color: #838388;
+}
+.ks-textbox-gridtableinputlong .ks-textbox-input:-moz-placeholder {
+	color: #838388;
+}

@@ -1,0 +1,36 @@
+/* textbox standard */
+
+
+.ks-textbox-standard .ks-textbox-title {
+ 	font-size: 14px;
+    font-weight: bold;
+    line-height: 16px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+
+.ks-textbox-standard .ks-textbox-field {
+    background-color: #fff;
+    border: 1px solid #cad4da;
+    border-radius: 7px;
+    height: 40px;
+}
+
+.ks-textbox-standard .ks-textbox-input {
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+.ks-textbox-standard .ks-textbox-input::-webkit-input-placeholder {
+    color: #838388;
+}
+.ks-textbox-standard .ks-textbox-input::-moz-placeholder {
+    color: #838388;
+}
+.ks-textbox-standard .ks-textbox-input:-ms-input-placeholder {
+    color: #838388;
+}
+.ks-textbox-standard .ks-textbox-input:-moz-placeholder {
+    color: #838388;
+}

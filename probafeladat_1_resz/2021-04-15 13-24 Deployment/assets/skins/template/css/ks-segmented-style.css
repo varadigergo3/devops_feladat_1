@@ -1,0 +1,37 @@
+.ks-segmented-deepblue_segmented.ks-segmented {
+	border-radius: 7px;
+	height: 40px;
+}
+
+.ks-segmented-deepblue_segmented .ks-segment {
+	background-color: #d8d9d9;
+	color: #585959;
+	font-size: 14px;
+	font-weight: 600;
+	border-right: 1px solid #fff;
+}
+
+.ks-segmented-deepblue_segmented .ks-segment.ks-on {
+	background-color: #0066cc;
+	color: #fff;
+}
+
+
+
+
+.ks-segmented-segmented.ks-segmented {
+	border-radius: 7px;
+	height: 40px;
+}
+
+.ks-segmented-segmented .ks-segment {
+	background-color: #d8d9d9;
+	color: #585959;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.ks-segmented-segmented .ks-segment.ks-on {
+	background-color: #0066cc;
+	color: #fff;
+}
