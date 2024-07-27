@@ -1,7 +1,7 @@
 # Előkövetelmények
 
 - Törlendő fájlok
-- AWS CLI 2.17.17 vagy újabb verzió
+- AWS CLI 1.15.0 vagy újabb verzió
 - ZIP csomag
 - S3 Bucket
 - IAM User legalább "AmazonS3FullAccess" hozzáféréssel (Access Key)
